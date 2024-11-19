@@ -1,0 +1,42 @@
+.features-section {
+    background-color: #ffffff;
+    padding: 50px 20px;
+}
+
+.feature {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.feature h2 {
+    font-size: 2rem;
+    color: #2b2d42;
+    margin-bottom: 10px;
+}
+
+.feature p {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+.feature button {
+    padding: 10px 20px;
+    background-color: #00bfa6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.feature button:hover {
+    background-color: #009f8c;
+}
+
+.feature img {
+    max-width: 80%;
+    height: auto;
+    margin-top: 20px;
+}

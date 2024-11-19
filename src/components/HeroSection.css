@@ -1,0 +1,38 @@
+.hero-section {
+    background-color: #eaf6fb;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.hero-header h1 {
+    font-size: 3rem;
+    color: #2b2d42;
+    margin-bottom: 10px;
+}
+
+.hero-header p {
+    font-size: 1.2rem;
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+.hero-header button {
+    padding: 10px 20px;
+    background-color: #00bfa6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hero-header button:hover {
+    background-color: #009f8c;
+}
+
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
